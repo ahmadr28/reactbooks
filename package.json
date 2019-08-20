@@ -2,7 +2,7 @@
   "name": "book-finder",
   "private": true,
   "dependencies": {
-    "axios": "^0.17.1",
+    "axios": ">=0.18.1"
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-scripts": "1.1.1"
